@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ただいま、おかえり",
+  "base_artist": "Aki Toyosaki",
+  "createdAt": "2025-12-03T10:57:42.505781Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ただいま、おかえり",
+      "artist": "豊崎 愛生",
+      "has_synced": false,
+      "path": "select/01_ただいま、おかえり_豊崎_愛生.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ただいま、おかえり",
+      "artist": "豊崎愛生",
+      "has_synced": false,
+      "path": "select/02_ただいま、おかえり_豊崎愛生.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ただいま、おかえり",
+      "artist": "豊崎 愛生",
+      "has_synced": false,
+      "path": "select/pl_01_ただいま、おかえり_豊崎_愛生.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ただいま、おかえり",
+      "artist": "豊崎 愛生",
+      "has_synced": false,
+      "path": "select/pl_02_ただいま、おかえり_豊崎_愛生.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ただいま、おかえり",
+      "artist": "豊崎 愛生",
+      "has_synced": false,
+      "path": "select/pl_03_ただいま、おかえり_豊崎_愛生.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ただいま、おかえり",
+      "artist": "豊崎 愛生",
+      "has_synced": false,
+      "path": "select/pl_04_ただいま、おかえり_豊崎_愛生.txt"
+    }
+  ]
+}
